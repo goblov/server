@@ -28,6 +28,6 @@
     "punycode": "^2.3.1",
     "request": "^2.88.2",
     "shelljs": "^0.8.5",
-    "winston": "^3.13.0"
+    "winston": "^3.17.0"
   }
 }
